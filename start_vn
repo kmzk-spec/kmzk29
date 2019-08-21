@@ -1,0 +1,17 @@
+echo "VIETNAM Version"
+echo "Disable Anti Cheat"
+echo "Backup Lib Ori"
+mv /data/data/com.vng.pubgmobile/lib/libtpnsSecurity.so /data/data/com.extendsguardr4/files/path_fos_vietnam/S5
+mv /data/data/com.vng.pubgmobile/lib/libtersafe.so /data/data/com.extendsguardr4/files/path_fos_vietnam/S6
+mv /data/data/com.vng.pubgmobile/lib/libUE4.so /data/data/com.extendsguardr4/files/path_fos_vietnam/S7
+mv /data/data/com.vng.pubgmobile/lib/libtprt.so /data/data/com.extendsguardr4/files/path_fos_vietnam/S8
+echo "Move lib Mod"
+mv /data/data/com.extendsguardr4/files/path_fms_vietnam/S1 /data/data/com.vng.pubgmobile/lib/libtpnsSecurity.so
+mv /data/data/com.extendsguardr4/files/path_fms_vietnam/S2 /data/data/com.vng.pubgmobile/lib/libtersafe.so
+mv /data/data/com.extendsguardr4/files/path_fms_vietnam/S3 /data/data/com.vng.pubgmobile/lib/libUE4.so
+mv /data/data/com.extendsguardr4/files/path_fms_vietnam/S4 /data/data/com.vng.pubgmobile/lib/libtprt.so
+echo "Set permission lib"
+chmod 755 /data/data/com.vng.pubgmobile/lib/libtpnsSecurity.so
+chmod 755 /data/data/com.vng.pubgmobile/lib/libtersafe.so
+chmod 755 /data/data/com.vng.pubgmobile/lib/libUE4.so
+chmod 755 /data/data/com.vng.pubgmobile/lib/libtprt.so
