@@ -2,12 +2,10 @@ mv /data/data/com.vng.pubgmobile/lib/libtpnsSecurity.so /data/data/com.extendsgu
 mv /data/data/com.vng.pubgmobile/lib/libtersafe.so /data/data/com.extendsguardr4/files/path_fms_vietnam/S2
 mv /data/data/com.vng.pubgmobile/lib/libUE4.so /data/data/com.extendsguardr4/files/path_fms_vietnam/S3
 mv /data/data/com.vng.pubgmobile/lib/libtprt.so /data/data/com.extendsguardr4/files/path_fms_vietnam/S4
-echo "Move lib ori"
 mv /data/data/com.extendsguardr4/files/path_fos_vietnam/S5 /data/data/com.vng.pubgmobile/lib/libtpnsSecurity.so
 mv /data/data/com.extendsguardr4/files/path_fos_vietnam/S6 /data/data/com.vng.pubgmobile/lib/libtersafe.so
 mv /data/data/com.extendsguardr4/files/path_fos_vietnam/S7 /data/data/com.vng.pubgmobile/lib/libUE4.so
 mv /data/data/com.extendsguardr4/files/path_fos_vietnam/S8 /data/data/com.vng.pubgmobile/lib/libtprt.so
-echo "Set permission"
 chmod 755 /data/data/com.vng.pubgmobile/lib/libtpnsSecurity.so
 chmod 755 /data/data/com.vng.pubgmobile/lib/libtersafe.so
 chmod 755 /data/data/com.vng.pubgmobile/lib/libUE4.so
