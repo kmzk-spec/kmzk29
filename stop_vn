@@ -1,6 +1,3 @@
-echo "VIETNAM Version"
-echo "Enable Anti Cheat"
-echo "Backup Lib Mod"
 mv /data/data/com.vng.pubgmobile/lib/libtpnsSecurity.so /data/data/com.extendsguardr4/files/path_fms_vietnam/S1
 mv /data/data/com.vng.pubgmobile/lib/libtersafe.so /data/data/com.extendsguardr4/files/path_fms_vietnam/S2
 mv /data/data/com.vng.pubgmobile/lib/libUE4.so /data/data/com.extendsguardr4/files/path_fms_vietnam/S3
