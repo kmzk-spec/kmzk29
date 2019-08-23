@@ -1,0 +1,22 @@
+rm -R /storage/emulated/0/.backups/com.tencent.ig
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/cache
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/tbslog
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/ProgramBinaryCache
+rm /storage/emulated/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json
+rm /storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt
+rm /storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt
+rm /storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt
+rm /storage/emulated/0/Android/data/com.tencent.ig/files/ca-bundle.pem
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/Epic' 'Games
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/Engine
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/Paks
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Content
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/rawdata
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo
+rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload
+rm /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
+rm /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
+rm /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
