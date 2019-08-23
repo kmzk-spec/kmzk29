@@ -1,0 +1,6 @@
+rm -R /data/user/0/com.tencent.ig/cache
+rm -R /data/user/0/com.tencent.ig/files
+rm -R /data/user/0/com.tencent.ig/app_bugly
+rm -R /data/user/0/com.tencent.ig/app_crashrecord
+rm -R /data/user/0/com.tencent.ig/code_cache
+rm -R /data/user/0/com.tencent.ig/shared_prefs
