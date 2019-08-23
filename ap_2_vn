@@ -1,0 +1,6 @@
+rm -R /data/user/0/com.vng.pubgmobile/cache
+rm -R /data/user/0/com.vng.pubgmobile/files
+rm -R /data/user/0/com.vng.pubgmobile/app_bugly
+rm -R /data/user/0/com.vng.pubgmobile/app_crashrecord
+rm -R /data/user/0/com.vng.pubgmobile/code_cache
+rm -R /data/user/0/com.vng.pubgmobile/shared_prefs
