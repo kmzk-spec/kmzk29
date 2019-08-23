@@ -1,4 +1,5 @@
 rm -R /storage/emulated/0/.backups/com.tencent.ig
+rm -R /storage/emulated/0/tencent
 rm -R /storage/emulated/0/Android/data/com.tencent.ig/cache
 rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/tbslog
 rm -R /storage/emulated/0/Android/data/com.tencent.ig/files/ProgramBinaryCache
